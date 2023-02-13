@@ -1,6 +1,6 @@
 # Análise de dados da empresa Discorama
 
-Para sanar as principais demandas da Discorama, foi feita uma análise de dados feita através do software Power BI que visa responder algumas perguntas sobre o negócio:<br>
+Para sanar as principais demandas da Discorama, foi feita a análise dos dados através do software Power BI que visa responder algumas perguntas sobre o negócio:<br>
 <br>•	Qual o ticket médio atual?<br>
 
 O ticket médio foi calculado utilizando a seguinte fórmula DAX:<br>
